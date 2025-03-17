@@ -19,17 +19,17 @@ Library	Purpose:
 
   
 #### How These Libraries Work Together
-- Ultralytics loads and trains the YOLO model.
-- OpenCV captures video frames and displays detected objects.
-- NumPy processes numerical data for model input.
-- TensorFlow provides deep learning support for the model.
+- Ultralytics:  Loads and trains the YOLO model.
+- OpenCV:  Captures video frames and displays detected objects.
+- NumPy:  Processes numerical data for model input.
+- TensorFlow: Provides deep learning support for the model.
 
 
 ## 3️⃣ What This Project Does
 This project allows you to:
-✅ Train a YOLOv8 model on a dataset (e.g., COCO dataset)
-✅ Perform real-time object detection on live video
-✅ Export the model to ONNX format for deployment
+- ✅ Train a YOLOv8 model on a dataset (e.g., COCO dataset)
+- ✅ Perform real-time object detection on live video
+- ✅ Export the model to ONNX format for deployment
 
 
 ## 4️⃣ How YOLO Works in This Project
